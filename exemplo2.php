@@ -10,7 +10,7 @@
 
 	echo "Arquivo criado em $data <br/>";
 
-	printf("Salár")
+	printf("Salár");
 
 	}
 
